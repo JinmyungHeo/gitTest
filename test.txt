@@ -1,3 +1,13 @@
 gitTest New
 master write_1
 master write_2
+master write_1
+branch write_1
+branch write_2
+branch write_3
+branch write_2_stash
+branch amend test
+
+new rebase test
+
+branch rebase test_2
