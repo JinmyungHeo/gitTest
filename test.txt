@@ -12,3 +12,7 @@ branch amend test
 new rebase test
 
 branch rebase test_2
+
+new feature
+new feature 2
+new feature 3
