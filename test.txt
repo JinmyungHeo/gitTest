@@ -1,2 +1,3 @@
 gitTest New
 master write_1
+master write_2
