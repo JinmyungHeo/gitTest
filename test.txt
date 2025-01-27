@@ -7,3 +7,5 @@ branch write_2_stash
 branch amend test
 
 new rebase test
+
+branch rebase test_2
