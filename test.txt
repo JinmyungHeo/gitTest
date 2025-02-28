@@ -1,6 +1,7 @@
 gitTest New
 master write_1
 master write_2
+master write 3
 master write_1
 branch write_1
 branch write_2
@@ -15,3 +16,4 @@ branch rebase test_2
 new feature
 new feature 2
 new feature 3
+new feature 4
