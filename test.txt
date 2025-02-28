@@ -1,7 +1,7 @@
 gitTest New
 master write_1
 master write_2
-master write 3
+master write 4
 master write_1
 branch write_1
 branch write_2
